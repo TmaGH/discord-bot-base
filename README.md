@@ -1,4 +1,4 @@
-Currently broken due to changes in the API.
+Playing music currently broken due to changes in the API.
 
 Developing a basic discord bot base with Python and Discord.py API wrapper (https://github.com/Rapptz/discord.py).
 
